@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 00000000000000000000000000000000
+  productGUID: 7be299c43771343529921d722af85d6c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 3
@@ -749,7 +749,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: d8ea76e0-5707-4f25-95d6-3942b5d4c05d
-  projectName: New Unity Project (1)
+  projectName: NewShooter
   organizationId: alyx2alyx
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
